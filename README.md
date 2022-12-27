@@ -8,4 +8,12 @@
 
 ## Contents
  View, Text, TouchableOpacity, Alert, StyleSheet, SafeAreaView
+ 
+ ## News App
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/36673014/209702609-c28d4683-0b22-4a4f-a619-860222ef71eb.png"  width="360"/>
+</p>
 
+##Contents
+  FlatList, View, Text, Image, Json, StyleSheet, ScrollView, Dimensions, SafeAreView

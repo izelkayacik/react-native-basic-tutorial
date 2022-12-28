@@ -16,4 +16,4 @@
 </p>
 
 ## Contents
-  FlatList, View, Text, Image, Json, StyleSheet, ScrollView, Dimensions, SafeAreView
+ FlatList: (data, renderItem), View, Text, Image, StyleSheet, Dimensions, SafeAreaView, ScrollView (horizontal), map fun, .json, keyExtractor

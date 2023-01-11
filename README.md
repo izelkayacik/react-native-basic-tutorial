@@ -17,3 +17,14 @@
 
 ## Contents
  FlatList: (data, renderItem), View, Text, Image, StyleSheet, Dimensions, SafeAreaView, ScrollView (horizontal), map fun, .json, keyExtractor
+ 
+ 
+  ## Music App
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/36673014/211762113-f0651023-4931-4de4-90d1-52154023a1a4.png"  width="360"/>
+  <img src="https://user-images.githubusercontent.com/36673014/211762220-ead1902f-3320-44b2-bd43-f7f5656128fb.png"  width="360"/>
+</p>
+
+## Contents
+ FlatList: (data, renderItem), View, Text, Image, StyleSheet, Dimensions, SafeAreaView, ScrollView (horizontal), map fun, .json, keyExtractor
